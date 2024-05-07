@@ -2,7 +2,10 @@
 Ex07-Linux File-IO Systems-locking
 # AIM:
 To Write a C program that illustrates files copying and locking
-
+```
+NAME : DHARMALINGAM S
+REG NO : 212223040037
+```
 # DESIGN STEPS:
 
 ### Step 1:
